@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waynemandem" alt="waynemandem" /></a> </p>
 
-- 🔭 I’m currently working on [my peresonal portfolio](josephportf.netlify.app)
+- 🔭 I’m currently working on [my personal portfolio](josephportf.netlify.app)
 
 - 🌱 I’m currently learning **React**
 
