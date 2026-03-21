@@ -1,27 +1,57 @@
-<h1 align="center">Hi 👋, I'm Joseph</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waynemandem&label=Profile%20views&color=0e75b6&style=flat" alt="waynemandem" /> </p>
+<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Joseph%20Okoemu&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waynemandem" alt="waynemandem" /></a> </p>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+products+people+actually+use;React+%2B+Vite+%2B+Supabase+developer;Turning+ideas+into+shipped+software;Based+in+Nigeria+%F0%9F%87%B3%F0%9F%87%AC+%7C+Open+to+remote" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on [my personal portfolio](josephportf.netlify.app)
+<br/>
 
-- 🌱 I’m currently learning **React**
+<img src="https://komarev.com/ghpvc/?username=waynemandem&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
 
-- 📫 How to reach me **okoemu4@gmail.com**
+</div>
 
-- 📄 Know about my experiences [josephportf.netlify.app](josephportf.netlify.app)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/joseph_mandem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joseph_mandem" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joseph okoemu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph okoemu" height="30" width="40" /></a>
-<a href="https://instagram.com/dat_frontend_guy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dat_frontend_guy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@zerotowebhero_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@zerotowebhero_01" height="30" width="40" /></a>
-</p>
+## 👨🏾‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- 🔭 Currently building **[CoinPulse](https://github.com/Waynemandem)** — a real-time meme coin & crypto tracker SaaS with tiered subscriptions
+- 🛒 Shipped **[Masterpiece Shawarma](https://github.com/Waynemandem)** — a full e-commerce experience for a Lagos food brand (Paystack, Firebase, React 19)
+- 🧠 Also building **CogniTalk** — an AI-powered conversation app (Vite + React)
+- 📺 I run **[@zerotowebhero_01](https://www.youtube.com/c/@zerotowebhero_01)** — a YouTube channel for self-taught devs and aspiring founders
+- 🌍 Based in **Nigeria** | Open to **remote roles & freelance contracts**
+- 📫 Reach me at **okoemu4@gmail.com**
+- 📄 Portfolio: **[josephportf.netlify.app](https://josephportf.netlify.app)**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waynemandem&show_icons=true&locale=en&layout=compact" alt="waynemandem" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Payments & APIs
+![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge&logo=stripe&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
